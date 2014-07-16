@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="CodaCaption-Heavy.ttf.GlyphOrder.ttx"/>
+  <head src="CodaCaption-Heavy.ttf._h_e_a_d.ttx"/>
+  <hhea src="CodaCaption-Heavy.ttf._h_h_e_a.ttx"/>
+  <maxp src="CodaCaption-Heavy.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="CodaCaption-Heavy.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="CodaCaption-Heavy.ttf._h_m_t_x.ttx"/>
+  <cmap src="CodaCaption-Heavy.ttf._c_m_a_p.ttx"/>
+  <fpgm src="CodaCaption-Heavy.ttf._f_p_g_m.ttx"/>
+  <prep src="CodaCaption-Heavy.ttf._p_r_e_p.ttx"/>
+  <cvt src="CodaCaption-Heavy.ttf._c_v_t.ttx"/>
+  <loca src="CodaCaption-Heavy.ttf._l_o_c_a.ttx"/>
+  <glyf src="CodaCaption-Heavy.ttf._g_l_y_f.ttx"/>
+  <name src="CodaCaption-Heavy.ttf._n_a_m_e.ttx"/>
+  <post src="CodaCaption-Heavy.ttf._p_o_s_t.ttx"/>
+  <gasp src="CodaCaption-Heavy.ttf._g_a_s_p.ttx"/>
+  <FFTM src="CodaCaption-Heavy.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="CodaCaption-Heavy.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="CodaCaption-Heavy.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="CodaCaption-Heavy.ttf.G_S_U_B_.ttx"/>
+</ttFont>
